@@ -1,0 +1,9 @@
+When applocation is running
+From browser
+hit below url
+
+http://localhost:8200/email/krishna
+
+You should see sample output as below which is using properties from both common props as well as application specific properties
+Hello!You're krishna and your assigned email is krihnabab@gmail.com...
+ and your location is NorthAmerica
